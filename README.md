@@ -24,7 +24,7 @@ The library was tested on Linux Fedora 36. There is a set of unit tests availabl
 
 Add the [`kafka`](kafka/) directory to your include paths and:
 ```
-#include <kafka/kafka.h>
+#include <kafka/kafka.hpp>
 ```
 Please see the [`examples`](examples/) directory for some examples on how to use the library.
 
