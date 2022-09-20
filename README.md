@@ -28,8 +28,6 @@ Add the [`kafka`](kafka/) directory to your include paths and:
 ```
 Please see the [`examples`](examples/) directory for some examples on how to use the library.
 
-Also consult the documentation: [libkafka-asio Reference](http://libkafka-asio.rtfd.org/)
-
 ## Dependencies
 
 `libkafka-asio` depends on the [Boost C++ libraries](http://www.boost.org/) -- specially on Boost Asio. The following Boost sub-libraries are explicitly used in the project:
