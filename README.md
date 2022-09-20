@@ -2,7 +2,6 @@
 C++ Kafka Client Library using Boost Asio
 
 [![Build Status](https://travis-ci.org/danieljoos/libkafka-asio.svg?branch=master)](https://travis-ci.org/danieljoos/libkafka-asio)
-[![Documentation Status](https://readthedocs.org/projects/libkafka-asio/badge/?version=latest)](https://readthedocs.org/projects/libkafka-asio/?badge=latest)
 
 ## Introduction
 
