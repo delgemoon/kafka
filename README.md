@@ -1,4 +1,5 @@
 # libkafka-asio
+Based on this https://github.com/danieljoos/libkafka-asio. But with cpp20 support
 C++ Kafka Client Library using Boost Asio
 
 [![Build Status](https://travis-ci.org/danieljoos/libkafka-asio.svg?branch=master)](https://travis-ci.org/danieljoos/libkafka-asio)
