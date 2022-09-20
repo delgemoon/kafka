@@ -18,7 +18,7 @@ protocol. All Kafka APIs, including offset commit/fetch, are implemented:
 It supports GZIP and Snappy message compression and therefore relies on the [zlib](http://www.zlib.net/) and [Snappy](https://code.google.com/p/snappy/) libraries.
 Message compression can optionally be turned off.
 
-The library was tested on Linux (GCC 4.9, clang 3.5.1) and Windows (MSVC 10, 11, 12). There is a set of unit tests available under [`test`](test/).
+The library was tested on Linux Fedora 36. There is a set of unit tests available under [`tests`](test/).
 
 ## Usage
 
